@@ -1,0 +1,16 @@
+.apps {
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    min-height: 80vh;
+
+}
+
+footer{
+    padding-bottom: 0;
+
+}
+
+Header {
+    padding-top: 0;
+}
